@@ -1,4 +1,4 @@
-# `💫 SSPITO - Bot 💫`
+# `💫 SaPITO - Bot 💫`
 
 <div align="center"><h3> Ola personita hermosa </h3>
 
@@ -15,7 +15,7 @@
 
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
-```bash
+
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd
 > termux-setup-storage
@@ -50,7 +50,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf session.data.json
 > npm start
 ```
-<div align="center"><h3> Bienvenid@! nwn </h3>
+<div align="center"><h3> ♡</h3>
 
 
 * <a href="https:https://github.com/Themistyc/Sapito"><img alt="GitHub" src="https://img.shields.io/badge/Sapito bot%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
