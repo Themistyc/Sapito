@@ -1,7 +1,8 @@
 {
-    "name": "SimpleBot",
+    "name": "SapitoBot UwU",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "description": "Subscribete al canal de YT SapitoBot
+Me encanta la pija 🤑",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -27,16 +28,16 @@
         "multi-device",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/BrunoSobrino",
+    "homepage": "https://github.com/SapitoBit",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "Sapito"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+        "url": "https://github.com/Themistyc/Sapito/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
