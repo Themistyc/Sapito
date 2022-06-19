@@ -26,8 +26,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/BrunoSobrino/SimpleBot
-> cd SimpleBot
+> git clone https://github.com/Themistyc/Sapito
+> cd Sapito 
 > yarn install
 > npm install
 > npm update
@@ -38,7 +38,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd SimpleBot
+> cd Sapito
 > npm start
 ```
 
@@ -46,7 +46,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd SimpleBot
+> cd Sapito
 > rm -rf session.data.json
 > npm start
 ```
@@ -57,9 +57,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 </p>
 
 
-## `EDITOR Y PORPIETARIO DEL BOT` 
-[![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://https://github.com/Themistyc/Sapito/) 
 
-`Sapito- Bot __________ By Bruno Sobrino`
 <img src="https://github.com/NeKosmic/NK-BOT/blob/main/culebrita.svg" />
 </div>
